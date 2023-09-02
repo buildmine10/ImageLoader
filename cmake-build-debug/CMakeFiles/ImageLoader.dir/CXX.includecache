@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/colli/CLionProjects/ImageLoader/QOI/QOI.h
+vector
+-
+cstdint
+-
+array
+-
+string
+-
+
+C:/Users/colli/CLionProjects/ImageLoader/QOI/QOIEncoder.cpp
+QOIEncoder.h
+C:/Users/colli/CLionProjects/ImageLoader/QOI/QOIEncoder.h
+iostream
+-
+cmath
+-
+bitset
+-
+fstream
+-
+stdexcept
+-
+
+C:/Users/colli/CLionProjects/ImageLoader/QOI/QOIEncoder.h
+QOI.h
+C:/Users/colli/CLionProjects/ImageLoader/QOI/QOI.h
+
